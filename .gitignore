@@ -31,14 +31,14 @@ checkpoints/
 # *.zip
 # *.tar.gz
 
-# Logs & images
-*.log
-*.png
-*.jpg
-*.jpeg
-*.pdf
-loss_*.png
-*.html
+# # Logs & images
+# *.log
+# *.png
+# *.jpg
+# *.jpeg
+# *.pdf
+# loss_*.png
+# *.html
 
 # IDE
 .idea/
