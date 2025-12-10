@@ -21,15 +21,15 @@ models/
 checkpoints/
 *.pkl
 
-# Data
-data/
-dataset/
-datasets/
-*.csv
-*.tsv
-*.jsonl
-*.zip
-*.tar.gz
+# # Data
+# data/
+# dataset/
+# datasets/
+# *.csv
+# *.tsv
+# *.jsonl
+# *.zip
+# *.tar.gz
 
 # Logs & images
 *.log
