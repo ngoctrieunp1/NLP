@@ -1,0 +1,50 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyTorch models & checkpoints
+*.pth
+*.pt
+*.bin
+models/
+checkpoints/
+*.pkl
+
+# Data
+data/
+dataset/
+datasets/
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.tar.gz
+
+# Logs & images
+*.log
+*.png
+*.jpg
+*.jpeg
+*.pdf
+loss_*.png
+*.html
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
